@@ -1,9 +1,8 @@
 # Library Management System Using C++
 
 
-### This project was created using C++
 
-### After running the .exe you'll be asked to enter a few passwords.
+### After running the .exe or .cpp file you'll be asked to enter a few passwords.
 
 
 - Program password: project
@@ -15,7 +14,7 @@
 
 
      Author:
-    - Instagram - @kalamcreationn
+    	- Instagram - @kalamcreationn
 	   	- GitHub - @kalamcreation
 	   	- Twitter - @kalamcreation
 	       
