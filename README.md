@@ -1,24 +1,24 @@
-# Library-Manager
+# Library Management System Using C++
 
 
-### This project was created by Visual Studio IDE using C++
+### This project was created using C++
 
 ### After running the .exe you'll be asked to enter a few passwords.
 
 
 - Program password: project
 - Library Password: library
-- Adminstrator Password: admin
+- Administrator Password: admin
 
 
-#### The program does not need any special requirements, and runs as a normal windows application.
+#### The program does not need any special requirements and runs as a normal Windows application.
 
 
      Author:
-           - instagram - @harshit_kumarofficial
-	       - github - @harshitkumar9030
-	       - twitter - @OhHarshit	
-	       - replit - @OhHarshit
+           - Instagram - @kalamcreationn
+	   - GitHub - @kalamcreation
+	   - Twitter - @kalamcreation
+	       
          
          
-##### Library Management system based on c++ BY HARSHIT KUMAR
+##### Library Management System based on C++ BY Abul Kalam
