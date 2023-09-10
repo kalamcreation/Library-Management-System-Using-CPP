@@ -16,8 +16,8 @@
 
      Author:
            - Instagram - @kalamcreationn
-	   - GitHub - @kalamcreation
-	   - Twitter - @kalamcreation
+	   	- GitHub - @kalamcreation
+	   	- Twitter - @kalamcreation
 	       
          
          
